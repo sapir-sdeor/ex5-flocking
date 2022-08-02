@@ -1,0 +1,34 @@
+{
+    "name": "reloadAction",
+    "maps": [
+        {
+            "name": "reload",
+            "id": "ee83df6e-6b9d-4413-aa76-6b858a22db8b",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "889641b6-db43-49cc-87e5-a690cb6d64a6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "976102a3-5844-4ae7-bfbf-ee30bc7a441e",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
